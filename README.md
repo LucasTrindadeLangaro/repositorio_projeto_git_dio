@@ -1,2 +1,3 @@
-# repositorio_projeto_git_dio
-Repositório para curso de git e Gitbub
+# Repositorio **Curso Git e Github**
+## Repositorio criado para o curso de **git e Github** do bootcamp do ifood
+
